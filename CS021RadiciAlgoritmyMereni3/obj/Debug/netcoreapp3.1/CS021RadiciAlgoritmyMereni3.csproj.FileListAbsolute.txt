@@ -1,0 +1,13 @@
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS021RadiciAlgoritmyMereni3\CS021RadiciAlgoritmyMereni2\bin\Debug\netcoreapp3.1\CS021RadiciAlgoritmyMereni3.exe
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS021RadiciAlgoritmyMereni3\CS021RadiciAlgoritmyMereni2\bin\Debug\netcoreapp3.1\CS021RadiciAlgoritmyMereni3.deps.json
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS021RadiciAlgoritmyMereni3\CS021RadiciAlgoritmyMereni2\bin\Debug\netcoreapp3.1\CS021RadiciAlgoritmyMereni3.runtimeconfig.json
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS021RadiciAlgoritmyMereni3\CS021RadiciAlgoritmyMereni2\bin\Debug\netcoreapp3.1\CS021RadiciAlgoritmyMereni3.runtimeconfig.dev.json
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS021RadiciAlgoritmyMereni3\CS021RadiciAlgoritmyMereni2\bin\Debug\netcoreapp3.1\CS021RadiciAlgoritmyMereni3.dll
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS021RadiciAlgoritmyMereni3\CS021RadiciAlgoritmyMereni2\bin\Debug\netcoreapp3.1\CS021RadiciAlgoritmyMereni3.pdb
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS021RadiciAlgoritmyMereni3\CS021RadiciAlgoritmyMereni2\obj\Debug\netcoreapp3.1\CS021RadiciAlgoritmyMereni3.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS021RadiciAlgoritmyMereni3\CS021RadiciAlgoritmyMereni2\obj\Debug\netcoreapp3.1\CS021RadiciAlgoritmyMereni3.AssemblyInfoInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS021RadiciAlgoritmyMereni3\CS021RadiciAlgoritmyMereni2\obj\Debug\netcoreapp3.1\CS021RadiciAlgoritmyMereni3.AssemblyInfo.cs
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS021RadiciAlgoritmyMereni3\CS021RadiciAlgoritmyMereni2\obj\Debug\netcoreapp3.1\CS021RadiciAlgoritmyMereni3.csproj.CoreCompileInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS021RadiciAlgoritmyMereni3\CS021RadiciAlgoritmyMereni2\obj\Debug\netcoreapp3.1\CS021RadiciAlgoritmyMereni3.dll
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS021RadiciAlgoritmyMereni3\CS021RadiciAlgoritmyMereni2\obj\Debug\netcoreapp3.1\CS021RadiciAlgoritmyMereni3.pdb
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS021RadiciAlgoritmyMereni3\CS021RadiciAlgoritmyMereni2\obj\Debug\netcoreapp3.1\CS021RadiciAlgoritmyMereni3.genruntimeconfig.cache
